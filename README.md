@@ -1,10 +1,10 @@
-# Hi, welcome to my profile 👍🏾🤘🏾
-I'm Daniel, but you can call me by my nickname, Dan.<br>
+# Hi, Welcome to my profile 👍🏾🤘🏾
+My name is Daniel, but everyone refers to me using my nickname, Dan.<br>
 **In the words of Brand, Interstellar Movie:**
 > Love is the one thing that transcends time and space.
-
-In this moment, I'm a student, with a big love for programming (in special, Web Backend). **I'm a english student too**.<br><br>
-***Please, any question or sugestion please open a issue or send me a message on Telegram, Twitter, Linkedin or a email (Links below).***
+---
+I'm a developer (normally backend and using PHP), with a big love for programming (in special, Web) and in this time (2021) I study systems analysis at the university. **I'm a english student too**.<br><br>
+***Please, any question or sugestion open a issue or send me a message on Telegram, Twitter, Linkedin or a email (Links below).***
 
 [Telegram](https://t.me/dancarvalhodev)<br>
 [Twitter](https://twitter.com/dancarvalhodev)<br>

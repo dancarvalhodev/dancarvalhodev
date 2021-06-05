@@ -14,9 +14,11 @@ echo readProfession($profession);
 
 - ✨ Since my first contact with PHP I love the power and structure of language, including the community and big projects like [Laravel](https://www.laravel.com).
 
-###### Contact
+---
 
-[Telegram](https://t.me/dancarvalhodev)
-[Twitter](https://twitter.com/dancarvalhodev)
-[Linkedin](https://www.linkedin.com/in/daniel-carvalho-02578a15a/)
-[Email](danielcarvalhodev@gmail.com)
+#### Contact
+
+[Telegram](https://t.me/dancarvalhodev)<br>
+[Twitter](https://twitter.com/dancarvalhodev)<br>
+[Linkedin](https://www.linkedin.com/in/daniel-carvalho-02578a15a/)<br>
+[Email](danielcarvalhodev@gmail.com)<br>

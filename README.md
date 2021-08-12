@@ -19,6 +19,5 @@ echo readProfession($profession);
 #### Contact
 
 [Telegram](https://t.me/dancarvalhodev)<br>
-[Twitter](https://twitter.com/dancarvalhodev)<br>
 [Linkedin](https://www.linkedin.com/in/daniel-carvalho-02578a15a/)<br>
 [Email](danielcarvalhodev@gmail.com)<br>

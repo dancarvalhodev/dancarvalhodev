@@ -1,7 +1,7 @@
 # Hi, I'm Daniel Carvalho 👍🏾🤘🏾
 
 ```php
-$job = 'Programmer';
+$job = 'Developer';
 
 function readProfession($job) {
   echo $job;
@@ -10,7 +10,7 @@ function readProfession($job) {
 echo readProfession($job);
 ```
 
-- 🔨 I work with development for about 9 months and try improve myself daily.
+- 🔨 I work with development for about 10 months.
 
 - ✨ Since my first contact with PHP I love the power and structure of language, including the community and big projects like [Laravel](https://www.laravel.com) and [Symfony](https://symfony.com/).
 

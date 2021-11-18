@@ -78,7 +78,7 @@
   <!-- Workspace -->
   <h3>Workflow</h3>
   <div style="padding-bottom: 30px;" class="row">  
-    <h5>Systems</h5>
+    <h4>Systems</h4>
     <div class="col-sm-3 p-2">
       <a href="https://www.microsoft.com/pt-br/windows/"><img style="width: 90px;" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     </div>
@@ -92,7 +92,7 @@
       <a href="https://opensuse.org/"><img style="width: 80px;" alt="Opensuse" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white"></a>
     </div> 
   <div style="padding-top: 30px;" class="row">
-    <h5>Programs</h5>
+    <h4>Programs</h4>
     <div class="col-sm-4 p-2">
       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     </div> 
@@ -106,7 +106,7 @@
   </div>
   <div style="padding-bottom: 30px;" class="row">
     <h3>Hardware</h3>   
-    <h5>Desktop</h5>
+    <h4>Desktop</h4>
     <div class="col-sm-6 p-2">
       <img alt="AMD Ryzen 5 3600" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
     </div> 
@@ -115,7 +115,7 @@
     </div> 
   </div>  
   <div class="row">
-    <h5>Notebook</h5>
+    <h4>Notebook</h4>
     <div class="col-sm-6 p-2">
       <img alt="Intel Core i5 10th" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
     </div>

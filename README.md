@@ -6,14 +6,18 @@
 
   <!-- Opening -->
   <div class="row">
-    <div class="col-sm-12 tex-center">
+    <div class="col-sm-12 text-center">
       <h1>Hi, my name is Daniel 👊🏾</h1>
-      <h2>I'm a web developer 🐘</h2>
+      <small>Currently I work as PHP Developer 🐘</small><br>
+      <small>Linux Lover 🐧</small><br>
+      <small>OpenSource Lover 💾</small><br>
+      <small>He/Him 👨🏾</small>
     </div>
   </div>
+  <hr>
 
   <!-- Github Stats -->
-  <div class="row">
+  <div class="row text-center">
     <div class="col-sm-6"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dancarvalhodev&count_private=true&show_icons=true&theme=dracula"></a></div>
     <div class="col-sm-6"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancarvalhodev&theme=dracula"></a></div>
   </div>
@@ -146,9 +150,3 @@
     <div class="col-sm-12"><a href="https://open.spotify.com/playlist/2ysvMJHeh8sgXOUosIK5EZ?si=5f788b776b894481"><img style="width: 90px;" alt="GPU" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a></div>
   </div>
 <div>
-
-
-
-<!-- 
-I'm Dan and currently I work as Web Developer
-he/him -->

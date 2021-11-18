@@ -20,7 +20,7 @@
 
   <!-- Skiils -->
   <h3>Skills</h3>
-  <h5>Langs</h5>
+  <h4>Langs</h4>
   <div style="padding-bottom: 5px;" class="row">
     <div class="col-sm-3 p-2">
       <img style="width: 90px;" alt="Dan-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,7 +35,7 @@
       <img style="width: 75px;" alt="Dan-JS" src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </div>   
   </div>
-  <h5>Frameworks</h5>
+  <h4>Frameworks</h4>
   <div class="row">
     <div class="col-sm-6 p-2">
       <img style="width: 120px;" alt="Dan-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -44,7 +44,7 @@
       <img style="width: 135px;" alt="Dan-Codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
     </div>    
   </div>
-  <h5>Databases</h5>
+  <h4>Databases</h4>
   <div class="row">
     <div class="col-sm-12 p-2">
       <img style="width: 90px;" alt="Dan-Mysql" src="https://img.shields.io/badge/MySQL-1c50a3?style=for-the-badge&logo=mysql&logoColor=white">
@@ -89,18 +89,18 @@
       <a href="https://ubuntu.com/"><img style="width: 90px;" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
     </div>
     <div class="col-sm-3 p-2">
-      <a href="https://opensuse.com/"><img style="width: 80px;" alt="Opensuse" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white"></a>
+      <a href="https://opensuse.org/"><img style="width: 80px;" alt="Opensuse" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white"></a>
     </div> 
   <div style="padding-top: 30px;" class="row">
     <h5>Programs</h5>
     <div class="col-sm-4 p-2">
-      <img align="center" alt="Visual Studo Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     </div> 
     <div class="col-sm-4 p-2">
-      <img align="center" alt="PHP Storm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
+      <img alt="PHP Storm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
     </div>     
     <div class="col-sm-4 p-2">
-      <img align="center" alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
     </div>      
   </div>        
   </div>
@@ -108,19 +108,19 @@
     <h3>Hardware</h3>   
     <h5>Desktop</h5>
     <div class="col-sm-6 p-2">
-      <img align="center" alt="AMD Ryzen 5 3600" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+      <img alt="AMD Ryzen 5 3600" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
     </div> 
     <div class="col-sm-6 p-2">
-      <img align="center" alt="AMD Radeon RX 550" src="https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+      <img alt="AMD Radeon RX 550" src="https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
     </div> 
   </div>  
   <div class="row">
     <h5>Notebook</h5>
     <div class="col-sm-6 p-2">
-      <img align="center" alt="Intel Core i5 10th" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+      <img alt="Intel Core i5 10th" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
     </div>
     <div class="col-sm-6 p-2">
-      <img align="center" alt="Intel UHD Graphics G1" src="https://img.shields.io/badge/Intel-UHD Graphics_G1-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+      <img alt="Intel UHD Graphics G1" src="https://img.shields.io/badge/Intel-UHD Graphics_G1-0071C5?style=for-the-badge&logo=intel&logoColor=white">
     </div>
   </div>
   <hr>
@@ -129,7 +129,7 @@
   <h3>Games</h3>
   <div class="row">
     <div class="col-sm-4 p-2">
-      <a href="https://pt.wikipedia.org/wiki/Nintendo_2DS"><img style="width: 70px;" alt="Nintendo Wii" src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white"></a>
+      <a href="https://pt.wikipedia.org/wiki/Wii"><img style="width: 70px;" alt="Nintendo Wii" src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white"></a>
     </div>  
     <div class="col-sm-4 p-2">
       <a href="https://pt.wikipedia.org/wiki/Nintendo_2DS"><img style="width: 150px;" alt="Nintendo 2DS" src="https://img.shields.io/badge/Nintendo_2DS-D13328?style=for-the-badge&logo=nintendo-3ds&logoColor=white"></a>

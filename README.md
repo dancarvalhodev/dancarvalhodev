@@ -4,9 +4,9 @@
   <!-- Opening -->
   <div>
     <div>
-      <h1>Hi, my name is Daniel 👊🏾</h1>
-      <small>Currently I work as PHP Developer 🐘</small><br>
-      <small>Linux Lover 🐧</small><br>
+      <h1>Hi, I'm Daniel 👊🏾</h1>
+      <small>Currently I work as Web Developer 🐘</small><br>
+      <small>Tech Lover 📱</small><br>
       <small>OpenSource Lover 💾</small><br>
       <small>He/Him 👨🏾</small>
     </div>
@@ -84,6 +84,9 @@
       <a href="https://www.microsoft.com/pt-br/windows/"><img style="width: 90px;" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     </div>
     <div>
+      <a href="https://apple.com"><img style="width: 90px;" alt="Windows" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></a>
+    </div>    
+    <div>
       <a href="https://www.android.com/intl/pt-BR_br/"><img style="width: 90px;" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
     </div>
     <div>
@@ -107,23 +110,10 @@
   </div>
   <div style="padding-bottom: 30px;">
     <h3>Hardware</h3>   
-    <h4>Desktop</h4>
     <div>
-      <img alt="AMD Ryzen 5 3600" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-    </div> 
-    <div>
-      <img alt="AMD Radeon RX 550" src="https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+      <img alt="Macbook Air M1" src="https://img.shields.io/badge/MacBook Air M1-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
     </div> 
   </div>  
-  <div>
-    <h4>Notebook</h4>
-    <div>
-      <img alt="Intel Core i5 10th" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-    </div>
-    <div>
-      <img alt="Intel UHD Graphics G1" src="https://img.shields.io/badge/Intel-UHD Graphics_G1-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-    </div>
-  </div>
   <hr>
 
   <!-- Games -->

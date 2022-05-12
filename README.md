@@ -1,8 +1,6 @@
 <!-- Main -->
-<div class="container">
-
   <!-- Opening -->
-  <div>
+  <div style="margin: 0 auto; text-align: center">
     <div>
       <h1>Hi, I'm Daniel 👊🏾</h1>
       <small>Currently I work as Web Developer 🐘</small><br>
@@ -14,45 +12,48 @@
   <hr>
 
   <!-- Github Stats -->
-  <div>
+  <div style="margin: 0 auto; text-align: center">
     <div><img src="https://github-readme-stats.vercel.app/api?username=dancarvalhodev&count_private=true&show_icons=true&theme=dracula"></div>
-    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancarvalhodev&theme=dracula"></div>
+    <div style="padding: 25px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancarvalhodev&theme=dracula"></div>
   </div>
 
-  <!-- Skiils -->
-  <h3>Skills</h3>
-  <h4>Langs</h4>
-  <div style="padding-bottom: 5px;">
-    <div>
-      <img style="width: 90px;" alt="Dan-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<div style="margin: 0 auto; text-align: center">
+    <!-- Skiils -->
+    <h3>Skills</h3>
+    <h4>Langs</h4>
+    <div style="padding-bottom: 5px;">
+      <div>
+        <img style="width: 90px;" alt="Dan-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      </div>
+      <div>
+        <img style="width: 90px;" alt="Dan-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+      </div>
+      <div>
+        <img style="width: 90px;" alt="Dan-PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+      </div>     
+      <div>
+        <img style="width: 75px;" alt="Dan-JS" src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      </div>   
     </div>
+    <h4>Frameworks</h4>
     <div>
-      <img style="width: 90px;" alt="Dan-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+      <div>
+        <img style="width: 120px;" alt="Dan-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+      </div>
+      <div>
+        <img style="width: 135px;" alt="Dan-Codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
+      </div>    
     </div>
+    <h4>Databases</h4>
     <div>
-      <img style="width: 90px;" alt="Dan-PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-    </div>     
-    <div>
-      <img style="width: 75px;" alt="Dan-JS" src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    </div>   
-  </div>
-  <h4>Frameworks</h4>
-  <div>
-    <div>
-      <img style="width: 120px;" alt="Dan-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+      <div>
+        <img style="width: 90px;" alt="Dan-Mysql" src="https://img.shields.io/badge/MySQL-1c50a3?style=for-the-badge&logo=mysql&logoColor=white">
+      </div>  
     </div>
-    <div>
-      <img style="width: 135px;" alt="Dan-Codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
-    </div>    
-  </div>
-  <h4>Databases</h4>
-  <div>
-    <div>
-      <img style="width: 90px;" alt="Dan-Mysql" src="https://img.shields.io/badge/MySQL-1c50a3?style=for-the-badge&logo=mysql&logoColor=white">
-    </div>  
-  </div>
-  <hr>
+    <hr>
+</div>
 
+<div style="margin: 0 auto; text-align: center">
   <h3>Contact</h3>
   <div>
     <div>
@@ -75,7 +76,9 @@
     </div>                    
   </div>
   <hr>
+  </div>
 
+<div style="margin: 0 auto; text-align: center">
   <!-- Workspace -->
   <h3>Workflow</h3>
   <div style="padding-bottom: 30px;">  
@@ -115,7 +118,9 @@
     </div> 
   </div>  
   <hr>
+  </div>  
 
+<div style="margin: 0 auto; text-align: center">
   <!-- Games -->
   <h3>Games</h3>
   <div>
@@ -130,10 +135,5 @@
     </div>
   </div>
   <hr>
+  </div>  
 
-  <!-- Streaming -->
-  <h4>Streaming</h4>
-  <div>
-    <div><a href="https://open.spotify.com/playlist/2ysvMJHeh8sgXOUosIK5EZ?si=5f788b776b894481"><img style="width: 90px;" alt="GPU" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a></div>
-  </div>
-<div>

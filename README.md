@@ -1,139 +1,41 @@
-<!-- Main -->
-  <!-- Opening -->
-  <div style="margin: 0 auto; text-align: center">
-    <div>
-      <h1>Hi, I'm Daniel 👊🏾</h1>
-      <small>Currently I work as Web Developer 🐘</small><br>
-      <small>Tech Lover 📱</small><br>
-      <small>OpenSource Lover 💾</small><br>
-      <small>He/Him 👨🏾</small>
-    </div>
-  </div>
-  <hr>
 
-  <!-- Github Stats -->
-  <div style="margin: 0 auto; text-align: center">
-    <div><img src="https://github-readme-stats.vercel.app/api?username=dancarvalhodev&count_private=true&show_icons=true&theme=dracula"></div>
-    <div style="padding: 25px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancarvalhodev&theme=dracula"></div>
-  </div>
+# Greetings 🎉
+### Welcome to my Github Profile 🦑
 
-<div style="margin: 0 auto; text-align: center">
-    <!-- Skiils -->
-    <h3>Skills</h3>
-    <h4>Langs</h4>
-    <div style="padding-bottom: 5px;">
-      <div>
-        <img style="width: 90px;" alt="Dan-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-      </div>
-      <div>
-        <img style="width: 90px;" alt="Dan-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-      </div>
-      <div>
-        <img style="width: 90px;" alt="Dan-PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-      </div>     
-      <div>
-        <img style="width: 75px;" alt="Dan-JS" src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      </div>   
-    </div>
-    <h4>Frameworks</h4>
-    <div>
-      <div>
-        <img style="width: 120px;" alt="Dan-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-      </div>
-      <div>
-        <img style="width: 135px;" alt="Dan-Codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
-      </div>    
-    </div>
-    <h4>Databases</h4>
-    <div>
-      <div>
-        <img style="width: 90px;" alt="Dan-Mysql" src="https://img.shields.io/badge/MySQL-1c50a3?style=for-the-badge&logo=mysql&logoColor=white">
-      </div>  
-    </div>
-    <hr>
-</div>
+---
 
-<div style="margin: 0 auto; text-align: center">
-  <h3>Contact</h3>
-  <div>
-    <div>
-      <a href="https://twitter.com/dancarvalhodev"><img style="width: 90px;" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    </div>
-    <div>
-      <a href="https://www.linkedin.com/in/daniel-carvalho-02578a15a/"><img style="width: 90px;" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    </div>
-    <div>
-      <a href="https://www.instagram.com/dancarvalho.dev/"><img style="width: 90px;" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    </div> 
-    <div>
-      <a href="https://discord.com/users/252924849603739648"><img style="width: 90px;" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    </div> 
-    <div>
-      <a href="https://t.me/dancarvalhodev"><img style="width: 90px;" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    </div>   
-    <div>
-      <a href="https://www.reddit.com/user/dancarvalhodev"><img style="width: 90px;" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-    </div>                    
-  </div>
-  <hr>
-  </div>
+# Let's Start With Basics
+Hi, I'm Daniel 👊🏾
 
-<div style="margin: 0 auto; text-align: center">
-  <!-- Workspace -->
-  <h3>Workflow</h3>
-  <div style="padding-bottom: 30px;">  
-    <h4>Systems</h4>
-    <div>
-      <a href="https://www.microsoft.com/pt-br/windows/"><img style="width: 90px;" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-    </div>
-    <div>
-      <a href="https://apple.com"><img style="width: 90px;" alt="Windows" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></a>
-    </div>    
-    <div>
-      <a href="https://www.android.com/intl/pt-BR_br/"><img style="width: 90px;" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-    </div>
-    <div>
-      <a href="https://ubuntu.com/"><img style="width: 90px;" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    </div>
-    <div>
-      <a href="https://opensuse.org/"><img style="width: 80px;" alt="Opensuse" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white"></a>
-    </div> 
-  <div style="padding-top: 30px;">
-    <h4>Programs</h4>
-    <div>
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    </div> 
-    <div>
-      <img alt="PHP Storm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
-    </div>     
-    <div>
-      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
-    </div>      
-  </div>        
-  </div>
-  <div style="padding-bottom: 30px;">
-    <h3>Hardware</h3>   
-    <div>
-      <img alt="Macbook Air M1" src="https://img.shields.io/badge/MacBook Air M1-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
-    </div> 
-  </div>  
-  <hr>
-  </div>  
+Web Developer 🐘 (I think that emoji tell my main language 😜)
 
-<div style="margin: 0 auto; text-align: center">
-  <!-- Games -->
-  <h3>Games</h3>
-  <div>
-    <div>
-      <a href="https://pt.wikipedia.org/wiki/Wii"><img style="width: 70px;" alt="Nintendo Wii" src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white"></a>
-    </div>  
-    <div>
-      <a href="https://pt.wikipedia.org/wiki/Nintendo_2DS"><img style="width: 150px;" alt="Nintendo 2DS" src="https://img.shields.io/badge/Nintendo_2DS-D13328?style=for-the-badge&logo=nintendo-3ds&logoColor=white"></a>
-    </div>
-    <div>
-      <a href="https://steamcommunity.com/id/eusouodan/"><img style="width: 90px;" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-    </div>
-  </div>
-  <hr>
-  </div>  
+Tech Lover 📱
 
+OpenSource Lover 💾
+
+He/Him 👨🏾
+
+Favorite Color 🟪
+
+Rock/Metal Lover 🤘🏾
+
+---
+
+# Stack 
+1. PHP 🐘
+2. MySQL 🐬
+3. Docker 🐳
+4. CodeIgniter 🔥
+5. JavaScript 👨🏽‍💻
+6. HTML 🔖
+7. CSS 💇🏾‍♂️
+8. Linux (Ubuntu, Debian, Fedora) 📀
+9. jQuery 👨🏽‍💻✨
+10. Android (In Progress) 🤖
+
+---
+
+# Hardware
+Macbook Air M1 (Entry Model)
+
+Galaxy A71

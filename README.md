@@ -31,11 +31,5 @@ Rock/Metal Lover 🤘🏾
 7. CSS 💇🏾‍♂️
 8. Linux (Ubuntu, Debian, Fedora) 📀
 9. jQuery 👨🏽‍💻✨
-10. Android (In Progress) 🤖
 
 ---
-
-# Hardware
-Macbook Air M1 (Entry Model)
-
-Galaxy A71

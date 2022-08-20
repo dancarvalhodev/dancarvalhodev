@@ -7,7 +7,7 @@
 # Let's Start With Basics
 Hi, I'm Daniel 👊🏾
 
-Web Developer 🐘 (I think that emoji tell my main language 😜)
+Web Developer 🐘 (I think that emoji tell my actual main language 😜)
 
 Tech Lover 📱
 
@@ -17,7 +17,7 @@ He/Him 👨🏾
 
 Favorite Color 🟪
 
-Rock/Metal Lover 🤘🏾
+I like Rock/Metal/Emo 🤘🏾
 
 ---
 
@@ -26,10 +26,18 @@ Rock/Metal Lover 🤘🏾
 2. MySQL 🐬
 3. Docker 🐳
 4. CodeIgniter 🔥
-5. JavaScript 👨🏽‍💻
-6. HTML 🔖
-7. CSS 💇🏾‍♂️
-8. Linux (Ubuntu, Debian, Fedora) 📀
-9. jQuery 👨🏽‍💻✨
+5. Slim ▪️
+6. JavaScript 👨🏽‍💻
+7. HTML 🔖
+8. CSS 💇🏾‍♂️
+9. Linux 📀
+10. jQuery 👨🏽‍💻✨
 
 ---
+
+# Tools
+1. PHP Storm
+2. Datagrip
+3. MySQL Workbench
+4. Visual Studio Code
+5. Dockerstation

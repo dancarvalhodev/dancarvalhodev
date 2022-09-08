@@ -17,7 +17,7 @@ He/Him 👨🏾
 
 Favorite Color 🟪
 
-I like Rock/Metal/Emo 🤘🏾
+I like Rock/Metal/Emo/Country 🤘🏾
 
 ---
 
@@ -40,4 +40,3 @@ I like Rock/Metal/Emo 🤘🏾
 2. Datagrip
 3. MySQL Workbench
 4. Visual Studio Code
-5. Dockerstation

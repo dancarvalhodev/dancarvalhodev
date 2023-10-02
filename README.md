@@ -17,7 +17,7 @@ He/Him 👨🏾
 
 Favorite Color 🟪
 
-I like Rock/Metal/Emo/Country 🤘🏾
+I like Rock/White Metal/Emo 🤘🏾
 
 ---
 
@@ -25,13 +25,12 @@ I like Rock/Metal/Emo/Country 🤘🏾
 1. PHP 🐘
 2. MySQL 🐬
 3. Docker 🐳
-4. CodeIgniter 🔥
-5. Slim ▪️
-6. JavaScript 👨🏽‍💻
-7. HTML 🔖
-8. CSS 💇🏾‍♂️
-9. Linux 📀
-10. jQuery 👨🏽‍💻✨
+4. Slim ▪️
+5. JavaScript 👨🏽‍💻
+6. HTML 🔖
+7. CSS 💇🏾‍♂️
+8. Linux 📀
+9. jQuery 👨🏽‍💻✨
 
 ---
 
@@ -40,3 +39,6 @@ I like Rock/Metal/Emo/Country 🤘🏾
 2. Datagrip
 3. MySQL Workbench
 4. Visual Studio Code
+5. Ubuntu
+6. Windows 10/11
+7. macOS

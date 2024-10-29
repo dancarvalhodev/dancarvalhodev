@@ -1,23 +1,15 @@
 
 # Greetings 🎉
-### Welcome to my Github Profile 🦑
+Hi, I'm Daniel and welcome to my Github Profile. 🦑
 
 ---
+# Basics
 
-# Let's Start With Basics
-Hi, I'm Daniel 👊🏾
-
-Web Developer 🐘 (I think that emoji tell my actual main language 😜)
-
-Tech Lover 📱
-
-OpenSource Lover 💾
-
-He/Him 👨🏾
-
-Favorite Color 🟪
-
-I like Rock/White Metal/Emo 🤘🏾
+- Web Developer 🐘
+- Travel lover ✈
+- Tech enthusiast 📱
+- Purple is my favorite color 🟪
+- Gamer 🎮
 
 ---
 
@@ -25,12 +17,11 @@ I like Rock/White Metal/Emo 🤘🏾
 1. PHP 🐘
 2. MySQL 🐬
 3. Docker 🐳
-4. Slim ▪️
-5. JavaScript 👨🏽‍💻
-6. HTML 🔖
-7. CSS 💇🏾‍♂️
-8. Linux 📀
-9. jQuery 👨🏽‍💻✨
+4. HTML 🔖
+5. CSS 💇🏾‍♂️
+6. JavaScript 👨🏽‍💻
+7. Linux 📀
+8. jQuery 👨🏽‍💻✨
 
 ---
 
@@ -38,7 +29,14 @@ I like Rock/White Metal/Emo 🤘🏾
 1. PHP Storm
 2. Datagrip
 3. MySQL Workbench
-4. Visual Studio Code
-5. Ubuntu
-6. Windows 10/11
-7. macOS
+4. DBeaver
+5. Visual Studio Code
+6. Bruno
+7. Postman
+
+---
+
+# Systems
+1. Ubuntu 22.04
+2. Windows 10
+3. macOS 15.1

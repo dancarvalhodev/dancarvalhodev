@@ -14,6 +14,8 @@ Outside work I split my time between side projects in PHP and the infrastructure
 
 **[Ansible Lab](https://github.com/dancarvalhodev/ansible-lab)**: provisioning of a Debian 13 server with Ansible, including Nginx with TLS and integration with AWS CLI.
 
+**[Minhas Cápsulas](https://github.com/dancarvalhodev/gerenciador-de-capsulas)**: a personal catalog of Dolce Gusto capsules, with how to brew each flavor and stock tracking. Plain JavaScript with Google sign-in and data in Firestore, published on GitHub Pages and co-developed using Claude Code.
+
 ---
 
 ### Stack
